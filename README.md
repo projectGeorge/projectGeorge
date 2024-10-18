@@ -1,5 +1,5 @@
 # About Me:
-Hello, I'm Jorge| I'm currently studying Software Engineering at the University of Málaga. 
+Hello, I'm Jorge! I'm currently studying Software Engineering at the University of Málaga. 
 
 
 # Languages:
