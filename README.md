@@ -1,20 +1,19 @@
-# Hi, I'm Jorge! 
+# Hi, I'm Jorge! 👋
 
-I'm a final-year **Software Engineering** student at the **University of Malaga (UMA)**.
+I'm a **Software Engineering graduate** from the University of Malaga (UMA) and currently working as a **Backend Engineer Intern** at DEKRA.
 
-I've always believed that if a job is worth doing, it's worth doing right. This is a philosophy I apply to everything I do—from my personal goals to every line of code I write.
+I believe that if a job is worth doing, it's worth doing right. I apply this philosophy to every system I design and every line of code I write—aiming for clean architecture, maintainability, and thoroughness in production environments.
 
-I see myself as a dedicated learner. My time at university has taught me how to approach problems logically, but I know that real-world software development is a continuous journey. I focus on being thorough with my work, aiming for clarity and quality in every project I participate in.
-
-When I'm not in front of a screen, I'm probably practicing sports, reading, or enjoying video games. I believe a balanced life and a curious mind are key to growing as a person and as a better professional.
+When I'm not in front of a screen, you'll probably find me playing basketball, working out, reading, or playing video games. I value a curious mind and a balanced lifestyle as key components of growing both personally and professionally.
 
 ---
 
-### What I'm focused on
-* 🛡️ **Cybersecurity:** my next big step (Master's degree) and long-term focus.
-* 🤖 **Artificial Intelligence:** exploring how it can be integrated into secure systems.
-* 💻 **Development:** strengthening my foundations in coding through academic projects.
-* 📈 **Growth:** eager to transition from academic logic to professional environments and learn from experienced teams.
+### What I'm Focused On
+
+* 🤖 **Artificial Intelligence & NLP:** preparing for my Master's degree in Natural Language Processing (NLP) and building intelligent software (exploring multi-agent systems, RAG, and LLM orchestration).
+* 🛡️ **Cybersecurity & Security Engineering:** My medium-term career goal. Actively studying security fundamentals and preparing for industry certifications, with the long-term objective of transitioning into a Security Engineer role and building resilient, secure-by-design systems.
+* 💻 **Backend Engineering & Architecture:** designing scalable microservices, applying Domain-Driven Design (DDD) and Hexagonal Architecture in Java/Spring Boot and FastAPI.
+* 📈 **Continuous Growth:** mastering production-level software practices, cloud observability, and refactoring techniques.
 
 ---
 
