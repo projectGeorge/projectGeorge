@@ -1,6 +1,6 @@
 # Hi, I'm Jorge! 👋
 
-I'm a **Software Engineering graduate** from the University of Malaga (UMA) and currently working as a **Backend Engineer Intern** at DEKRA.
+I'm a **Software Engineering graduate** from the University of Malaga (UMA) and currently working as a **Backend Engineer Intern** at DEKRA Spain.
 
 I believe that if a job is worth doing, it's worth doing right. I apply this philosophy to every system I design and every line of code I write—aiming for clean architecture, maintainability, and thoroughness in production environments.
 
