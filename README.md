@@ -10,9 +10,10 @@ When I'm not in front of a screen, you'll probably find me playing basketball, w
 
 ### What I'm Focused On
 
-* 🤖 **Agentic AI & LLM Systems:** building autonomous multi-agent pipelines (LangGraph, Python), RAG retrieval flows, and hybrid inference systems with deterministic fallbacks.
-* 💻 **Backend & Distributed Systems:** designing scalable microservices using Domain-Driven Design (DDD) and Hexagonal Architecture across Java/Spring Boot, FastAPI, gRPC, and Apache Kafka.
-* 🛡️ **System Resilience & Observability:** hardening fault tolerance (Resilience4j, circuit breakers), maintaining high test coverage (JUnit 5, AssertJ), and setting up metrics with Prometheus and Grafana.
+* 🤖 **Artificial Intelligence & NLP:** preparing for my Master's degree in Natural Language Processing (NLP) and building intelligent software (exploring multi-agent systems, RAG, and LLM orchestration).
+* 🛡️ **Cybersecurity & Security Engineering:** medium-term career interest, aiming toward understanding resilient, secure-by-design architectures and software security.
+* 💻 **Backend Engineering & Architecture:** designing scalable microservices, applying Domain-Driven Design (DDD) and Hexagonal Architecture in Java/Spring Boot and FastAPI.
+* 📈 **Continuous Growth:** mastering production-level software practices, cloud observability, and refactoring techniques.
 
 ---
 
