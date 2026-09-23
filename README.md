@@ -1,8 +1,8 @@
 # Hi, I'm Jorge! 👋
 
-I'm a **Software Engineering graduate** from the University of Malaga (UMA) and currently working as a **Backend Engineer Intern** at DEKRA Spain.
+I'm a **Software Engineering graduate** from the University of Malaga (UMA) with production experience in backend and platform engineering at **DEKRA Spain**[cite: 1, 12]. Currently exploring full-time opportunities as a **Software Engineer**, **Backend Engineer**, or **AI Engineer**.
 
-I believe that if a job is worth doing, it's worth doing right. I apply this philosophy to every system I design and every line of code I write—aiming for clean architecture, maintainability, and thoroughness in production environments.
+I believe that if a job is worth doing, it's worth doing right. I apply this philosophy to every system I design and every line of code I write — aiming for clean architecture, maintainability, and thoroughness in production environments.
 
 When I'm not in front of a screen, you'll probably find me playing basketball, working out, reading, or playing video games. I value a curious mind and a balanced lifestyle as key components of growing both personally and professionally.
 
@@ -10,10 +10,9 @@ When I'm not in front of a screen, you'll probably find me playing basketball, w
 
 ### What I'm Focused On
 
-* 🤖 **Artificial Intelligence & NLP:** preparing for my Master's degree in Natural Language Processing (NLP) and building intelligent software (exploring multi-agent systems, RAG, and LLM orchestration).
-* 🛡️ **Cybersecurity & Security Engineering:** My medium-term career goal. Actively studying security fundamentals and preparing for industry certifications, with the long-term objective of transitioning into a Security Engineer role and building resilient, secure-by-design systems.
-* 💻 **Backend Engineering & Architecture:** designing scalable microservices, applying Domain-Driven Design (DDD) and Hexagonal Architecture in Java/Spring Boot and FastAPI.
-* 📈 **Continuous Growth:** mastering production-level software practices, cloud observability, and refactoring techniques.
+* 🤖 **Agentic AI & LLM Systems:** Building autonomous multi-agent pipelines (LangGraph, Python), RAG retrieval flows, and hybrid inference systems with deterministic fallbacks[cite: 2, 12].
+* 💻 **Backend & Distributed Systems:** Designing scalable microservices using Domain-Driven Design (DDD) and Hexagonal Architecture across Java/Spring Boot, FastAPI, gRPC, and Apache Kafka[cite: 1, 2, 12].
+* 🛡️ **System Resilience & Observability:** Hardening fault tolerance (Resilience4j, circuit breakers), maintaining high test coverage (JUnit 5, AssertJ), and setting up metrics with Prometheus and Grafana[cite: 1, 11, 12].
 
 ---
 
