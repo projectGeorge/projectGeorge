@@ -1,6 +1,6 @@
 # Hi, I'm Jorge! 👋
 
-I'm a **Software Engineering graduate** from the University of Malaga (UMA) with production experience in backend and platform engineering at **DEKRA Spain**[cite: 1, 12]. Currently exploring full-time opportunities as a **Software Engineer**, **Backend Engineer**, or **AI Engineer**.
+I'm a **Software Engineering graduate** from the University of Malaga (UMA) with production experience in backend and platform engineering at **DEKRA Spain**. Currently exploring full-time opportunities as a **Software Engineer**, **Backend Engineer**, or **AI Engineer**.
 
 I believe that if a job is worth doing, it's worth doing right. I apply this philosophy to every system I design and every line of code I write — aiming for clean architecture, maintainability, and thoroughness in production environments.
 
