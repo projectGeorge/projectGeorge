@@ -4,7 +4,7 @@ I'm a **Software Engineering graduate** from the University of Malaga (UMA) with
 
 I believe that if a job is worth doing, it's worth doing right. I apply this philosophy to every system I design and every line of code I write — aiming for clean architecture, maintainability, and thoroughness in production environments.
 
-When I'm not in front of a screen, you'll probably find me playing basketball, working out, reading, or playing video games. I value a curious mind and a balanced lifestyle as key components of growing both personally and professionally.
+When I'm not in front of a screen, you'll probably find me playing basketball, working out or reading. I value a curious mind and a balanced lifestyle as key components of growing both personally and professionally.
 
 ---
 
