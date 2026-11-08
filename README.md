@@ -10,7 +10,7 @@ When I'm not in front of a screen, you'll probably find me playing basketball, w
 
 ### What I'm Focused On
 
-* 🤖 **Artificial Intelligence & NLP:** preparing for my Master's degree in Natural Language Processing (NLP) and building intelligent software (exploring multi-agent systems, RAG, and LLM orchestration).
+* 🤖 **Artificial Intelligence & NLP:** I’m currently pursuing an online master's degree in Language Technologies (focused on NLP) and building intelligent software (exploring multi-agent systems, RAG, and LLM orchestration).
 * 🛡️ **Cybersecurity & Security Engineering:** medium-term career interest, aiming toward understanding resilient, secure-by-design architectures and software security.
 * 💻 **Backend Engineering & Architecture:** designing scalable microservices, applying Domain-Driven Design (DDD) and Hexagonal Architecture in Java/Spring Boot and FastAPI.
 * 📈 **Continuous Growth:** mastering production-level software practices, cloud observability, and refactoring techniques.
